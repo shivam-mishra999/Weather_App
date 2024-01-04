@@ -1,0 +1,25 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  #textfield {
+    padding-bottom: 70px;
+  }
+  /* #button {
+    background-color: pink;
+    color: black;
+    font-size: 15px;
+    border-radius: 8px;
+    border-bottom-width: 4px;
+    border-right-width: 4px;
+  }
+  .button {
+    padding-bottom: 20px;
+  } */
+  
+  body{
+    background-image:url('https://img.freepik.com/free-vector/collection-cartoon-weather-signs_79603-1807.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1704240000&semt=ais');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
